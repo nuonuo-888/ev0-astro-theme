@@ -8,6 +8,16 @@ EV0 Astro Theme is a free and open-source serverless blog template, built with A
 
 <a href="https://astro.build"><img src="https://astro.badg.es/v2/built-with-astro/tiny.svg" alt="Built with Astro" width="120" height="20"></a>
 
+## Deploy
+
+One-click deploy this starter to Tencent EdgeOne Pages (installs, builds, and serves `dist/` automatically).
+
+[![Deploy to Tencent EdgeOne Pages](https://img.shields.io/badge/Deploy-Tencent%20EdgeOne%20Pages-006EFF?style=for-the-badge&logo=tencentqq&logoColor=white)](https://edgeone.ai/pages/new?template=https%3A%2F%2Fgithub.com%2Fnuonuo-888%2Fev0-astro-theme&output-directory=dist&build-command=npm+run+build&install-command=npm+install&origin_from=childtom)
+
+## Preview
+
+[![Preview](https://img.shields.io/badge/Preview-4ECCA3?style=for-the-badge&logo=globe&logoColor=white)](https://ev0-astro-theme.edgeone.app/)
+
 ## 🔥 DEMOS
 
 - [EV0 Astro Theme - DEMO](https://ev0.gndx.dev/)
@@ -39,10 +49,9 @@ EV0 Astro Theme is a free and open-source serverless blog template, built with A
   <img align="center" alt="Lighthouse Score" src="https://s3.amazonaws.com/gndx.dev/EV0-astro-theme-lighthouse.png"/>
 </p>
 
-
 ## 👨🏻‍💻 VIP Support (optional) $25
-Includes personalized assistance via messages/emails, customization of up to 1 feature, assistance for implementation in your hosting and deployment, and advice for future changes.  [Buy VIP Support](https://gndx.gumroad.com/l/zwaeqz). 
 
+Includes personalized assistance via messages/emails, customization of up to 1 feature, assistance for implementation in your hosting and deployment, and advice for future changes. [Buy VIP Support](https://gndx.gumroad.com/l/zwaeqz).
 
 ## 🚀 Getting Started
 
