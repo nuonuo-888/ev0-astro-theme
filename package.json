@@ -38,15 +38,15 @@
     "lint:eslint": "eslint . --ext .js,.ts,.astro"
   },
   "devDependencies": {
-    "@astrojs/mdx": "2.2.3",
-    "@astrojs/rss": "4.0.5",
-    "@astrojs/sitemap": "3.1.2",
-    "@astrojs/tailwind": "5.1.0",
+    "@astrojs/mdx": "^4.3.12",
+    "@astrojs/rss": "^4.0.14",
+    "@astrojs/sitemap": "^3.6.0",
+    "@astrojs/tailwind": "^6.0.2",
     "@tailwindcss/aspect-ratio": "0.4.2",
     "@tailwindcss/typography": "0.5.12",
     "@typescript-eslint/eslint-plugin": "7.5.0",
     "@typescript-eslint/parser": "7.5.0",
-    "astro": "^4.16.8",
+    "astro": "^5.16.0",
     "astro-md-generator": "1.0.0",
     "astro-robots-txt": "1.0.0",
     "dotenv": "16.4.5",
@@ -55,7 +55,7 @@
     "eslint-plugin-jsx-a11y": "6.8.0",
     "googleapis": "134.0.0",
     "prettier": "3.2.5",
-    "prettier-plugin-astro": "0.13.0",
+    "prettier-plugin-astro": "^0.14.1",
     "prettier-plugin-tailwindcss": "0.5.13",
     "tailwindcss": "3.4.3",
     "vite-plugin-pwa": "0.19.7"
@@ -65,6 +65,7 @@
     "astro-compress/sharp": "0.33.1"
   },
   "dependencies": {
+    "@edgeone/astro": "^1.0.4",
     "astro-compressor": "0.4.1"
   }
 }
