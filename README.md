@@ -18,13 +18,6 @@ One-click deploy this starter to Tencent EdgeOne Pages (installs, builds, and se
 
 [![Preview](https://img.shields.io/badge/Preview-4ECCA3?style=for-the-badge&logo=globe&logoColor=white)](https://ev0-astro-theme.edgeone.app/)
 
-## 🔥 DEMOS
-
-- [EV0 Astro Theme - DEMO](https://ev0.gndx.dev/)
-- [GNDX - My Personal Blog (ES)](https://gndx.dev)
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gndx/ev0-astro-theme#NODE_VERSION=18)
-
 ## 🔥 Features
 
 - ✅ Minimal styling (Tailwind CSS)
